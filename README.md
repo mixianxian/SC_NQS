@@ -1,7 +1,7 @@
 # SC_NQS
 This is [A Non-stochastic Optimization Algorithm for Neural-network Quantum States](https://doi.org/10.48550/arXiv.2305.12776) using Selected Configurations
 
-![Table of Contents](https://github.com/mixianxian/SC_NQS/blob/main/figures/TOC.tif)
+![Table of Contents](./figures/TOC.png)
 
 # Getting Started
 
