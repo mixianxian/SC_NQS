@@ -1,2 +1,25 @@
 # SC_NQS
-Deterministically Selected Configurations for Optimization of Neural-network Quantum States
+This is [A Non-stochastic Optimization Algorithm for Neural-network Quantum States](https://doi.org/10.48550/arXiv.2305.12776) using Selected Configurations
+
+# Getting Started
+
+1. Install requirements.
+
+```
+pip install -r requirements.txt
+```
+
+2. Compile cython codes.
+
+```
+python setup.py build_ext --inplace
+```
+
+3. Run example.
+
+```
+python test.py
+```
+
+The output result of test.py is the ground state energy of the $\rm C_2$ molecule(sto-3g basis) at equilibrium using the SC-VMC method.
+
