@@ -23,7 +23,7 @@ python setup.py build_ext --inplace
 python test.py
 ```
 
-The output result of test.py is the ground state energy of the $\rm C_2$ molecule(sto-3g basis) at equilibrium using the SC-NQS method.
+The output result of test.py is the ground state energy of the $\rm C_2$ molecule(STO-3G basis) at equilibrium using the SC-NQS method.
 
 # Giving Credit
 If you use this code in your work, please cite the associated papers.
